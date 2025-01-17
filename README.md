@@ -23,7 +23,7 @@
 <h3 align="center">0x0000: Projects? What is that?</h3>
 <div align="center">
   <div>
-    <a href="https://t.me/want_to_ping_bot"><img alt="Mention — Telegram Bot" src="https://img.shields.io/badge/Mention%20--%20BOT-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4&logoSize=auto&link=https%3A%2F%2Ft.me%2Fwant_to_ping_bot"></a>
+    <a href="https://t.me/want_to_ping_bot" target="_blank"><img alt="Mention — Telegram Bot" src="https://img.shields.io/badge/Mention%20--%20BOT-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4&logoSize=auto&link=https%3A%2F%2Ft.me%2Fwant_to_ping_bot"></a>
     <a href="#"><img alt="And more... — Telegram" src="https://img.shields.io/badge/And%20more...-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4&logoSize=auto"></a>
   </div>
 </div>
