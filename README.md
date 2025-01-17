@@ -28,6 +28,6 @@
   </div>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFyZGVqeXF5NmNhMWN5a2N2OWpiY3JxNHgxOTJxY2RvbnM5Ymd2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/04UTjsjbIlpg6nvnFy/giphy.gif">
-</p>
+</p> -->
