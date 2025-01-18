@@ -24,9 +24,16 @@
 <div align="center">
   <div>
     <a href="https://t.me/want_to_ping_bot" target="_blank"><img alt="Mention — Telegram Bot" src="https://img.shields.io/badge/Mention%20--%20BOT-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4&logoSize=auto&link=https%3A%2F%2Ft.me%2Fwant_to_ping_bot"></a>
-    <a href="#"><img alt="And more... — Telegram" src="https://img.shields.io/badge/And%20more...-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4&logoSize=auto"></a>
+    <a href="#"><img alt="And More..." src="https://img.shields.io/badge/And_more...-090909?style=for-the-badge&logo=github&logoColor=FFFFFF&logoSize=auto"></a>
   </div>
 </div>
+
+<!-- <h3 align="center">0x0007: ERR</h3>
+<div align="center">
+  <div>
+    <a href="#"><img alt="Commits" src="#"></a>
+  </div>
+</div> -->
 
 <!-- <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFyZGVqeXF5NmNhMWN5a2N2OWpiY3JxNHgxOTJxY2RvbnM5Ymd2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/04UTjsjbIlpg6nvnFy/giphy.gif">
