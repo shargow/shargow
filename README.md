@@ -24,6 +24,9 @@
 <div align="center">
   <div>
     <a href="https://t.me/want_to_ping_bot" target="_blank"><img alt="Mention — Telegram Bot" src="https://img.shields.io/badge/Mention%20--%20BOT-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4&logoSize=auto&link=https%3A%2F%2Ft.me%2Fwant_to_ping_bot"></a>
+    <a href="https://t.me/oltattsbot" target="_blank"><img alt="OL.TATTSFIT — Telegram Bot" src="https://img.shields.io/badge/OL.TATTSFIT%20--%20BOT-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4&logoSize=auto&link=https%3A%2F%2Ft.me%2Foltattsbot"></a>
+  </div>
+    <div>
     <a href="#"><img alt="And More..." src="https://img.shields.io/badge/And_more...-090909?style=for-the-badge&logo=github&logoColor=FFFFFF&logoSize=auto"></a>
   </div>
 </div>
